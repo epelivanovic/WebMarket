@@ -1,0 +1,33 @@
+﻿body {
+    text-align:center;
+}
+.bronze,.gold,.silver{
+   width:30%;
+   float:left;
+   padding-right:10px;
+}
+.content{
+    width:90%;
+    margin:auto;
+    margin-top:25px;
+    margin-left:10%;
+    padding:15px;
+
+}
+.bronze{
+    background-color:sandybrown;
+}
+.silver{
+    background-color:silver;
+}
+.gold{
+    background-color:gold;
+}
+.purc{
+    margin-bottom:10px;
+}
+.btncalc{
+    width:100px;
+    height:80px;
+    background-color:grey;
+}
